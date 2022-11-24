@@ -1,0 +1,13 @@
+name: RedWineQualityPrediction
+title: RedWineQualityPrediction
+username:
+account: tk211020
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3435471
+bundleId: 4082568
+url: https://tk211020.shinyapps.io/RedWineQualityPrediction/
+when: 1610379816.14891
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|CART.rds|final.r|ggbiplot.R|shiny.zip|test.r|__MACOSX/._app.R|__MACOSX/._winequality-red.csv|ggvisExample/server.r|ggvisExample/ui.r|ggvisExample/rsconnect/shinyapps.io/tk211020/ggvisExample.dcf|images/img1.png|images/img2.png|old/pca.R|old/server.r|old/test.r|old/ui.r

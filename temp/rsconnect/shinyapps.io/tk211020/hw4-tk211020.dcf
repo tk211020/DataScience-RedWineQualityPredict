@@ -1,0 +1,13 @@
+name: hw4-tk211020
+title: hw4-tk211020
+username:
+account: tk211020
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3241782
+bundleId: 3866781
+url: https://tk211020.shinyapps.io/hw4-tk211020/
+when: 1605534669.56386
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|README.md|ggvisExample/server.r|ggvisExample/ui.r|ggvisExample/rsconnect/shinyapps.io/tk211020/ggvisExample.dcf|images/img1.png|images/img2.png

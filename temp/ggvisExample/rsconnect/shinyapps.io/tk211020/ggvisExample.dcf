@@ -1,0 +1,12 @@
+name: ggvisExample
+title: ggvisExample
+username:
+account: tk211020
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3239959
+bundleId: 3865311
+url: https://tk211020.shinyapps.io/ggvisExample/
+when: 1605505182.64496
+asMultiple: FALSE
+asStatic: FALSE
